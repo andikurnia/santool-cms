@@ -1,0 +1,1644 @@
+2013/02/15 10:52:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 10:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/type_kendaraan/index
+---
+2013/02/15 10:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/type_kendaraan/index
+---
+2013/02/15 10:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/type_kendaraan/index
+---
+2013/02/15 10:53:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/type_kendaraan/2
+---
+2013/02/15 10:53:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/type_kendaraan/2
+---
+2013/02/15 10:53:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/type_kendaraan/2
+---
+2013/02/15 11:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 11:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 11:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 11:06:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:06:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:06:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:08:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:08:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:14:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:14:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:14:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 11:15:04 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/html/yii_1_1_13/framework/web/auth/CAccessControlFilter.php:179
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/auth/CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#8 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit')
+#9 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#11 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:30:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:30:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:30:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:30:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:30:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:31:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/daftar_pengajuan/index
+---
+2013/02/15 12:31:28 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/html/yii_1_1_13/framework/web/auth/CAccessControlFilter.php:179
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/auth/CAccessControlFilter.php(142): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#8 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit')
+#9 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#10 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#11 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:32:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:32:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:32:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:32:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:44:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:44:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:44:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:46:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:46:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:46:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:46:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:46:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:47:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:47:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:47:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:47:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:47:53 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Approved is too long (maximum is 1 characters).' in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php:161
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php(119): EditableSaver->error('Approved is too...')
+#1 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(229): EditableSaver->update()
+#2 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): UjiberkalaController->actionEdit()
+#3 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#10 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#12 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit')
+#13 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#14 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#15 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:53:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:53:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:53:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:53:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:53:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:54:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:55:44 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22001]: String data, right truncated: 7 ERROR:  value too long for type character(1). The SQL statement executed was: UPDATE "angkutan" SET "approved"=:yp0 WHERE "angkutan"."id"=10.
+in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php (125)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (229)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 12:55:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[22001]: String data, right truncated: 7 ERROR:  value too long for type character(1). The SQL statement executed was: UPDATE "angkutan" SET "approved"=:yp0 WHERE "angkutan"."id"=10' in /var/www/html/yii_1_1_13/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1691): CDbCommand->execute()
+#1 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1070): CActiveRecord->updateByPk(10, Array)
+#2 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(795): CActiveRecord->update(Array)
+#3 /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php(125): CActiveRecord->save(false, Array)
+#4 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(229): EditableSaver->update()
+#5 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): UjiberkalaController->actionEdit()
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#13 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#15 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit')
+#16 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#18 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:59:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:59:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 12:59:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:04:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:04:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:04:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:05:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:05:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:05:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:06:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:06:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:06:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:06:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:06:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:07:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:07:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:07:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:07:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:08:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:09:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:09:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/css/bootstrap-responsive.css".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/css/bootstrap-responsive.css
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:09:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:09:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/img/loading.gif".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/img/loading.gif
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:11:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/c1677705/js/bootstrap.js".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/c1677705...')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/assets/c1677705/js/bootstrap.js
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/10
+---
+2013/02/15 13:49:59 [error] [exception.CException] exception 'CException' with message 'Property "TbEditableField.onclick" is not defined.' in /var/www/html/yii_1_1_13/framework/base/CComponent.php:173
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWidgetFactory.php(161): CComponent->__set('onclick', 'js: function(e,...')
+#1 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(UjiberkalaController), 'TbEditableField', Array)
+#2 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(166): CBaseController->createWidget('TbEditableField', Array)
+#3 /var/www/html/dishub/backend/protected/extensions/bootstrap/widgets/TbEditableDetailView.php(70): CBaseController->widget('TbEditableField', Array, true)
+#4 /var/www/html/yii_1_1_13/framework/zii/widgets/CDetailView.php(217): TbEditableDetailView->renderItem(Array, Array)
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(173): CDetailView->run()
+#6 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(109): CBaseController->widget('bootstrap.widge...', Array)
+#7 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#8 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#10 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#11 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#12 [internal function]: UjiberkalaController->actionView('11')
+#13 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#14 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#22 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#24 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#25 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#26 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#27 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/11
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 13:51:33 [error] [exception.CException] exception 'CException' with message 'Property "TbEditableField.onUpate" is not defined.' in /var/www/html/yii_1_1_13/framework/base/CComponent.php:173
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWidgetFactory.php(161): CComponent->__set('onUpate', 'js: function(e,...')
+#1 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(UjiberkalaController), 'TbEditableField', Array)
+#2 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(166): CBaseController->createWidget('TbEditableField', Array)
+#3 /var/www/html/dishub/backend/protected/extensions/bootstrap/widgets/TbEditableDetailView.php(70): CBaseController->widget('TbEditableField', Array, true)
+#4 /var/www/html/yii_1_1_13/framework/zii/widgets/CDetailView.php(217): TbEditableDetailView->renderItem(Array, Array)
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(173): CDetailView->run()
+#6 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(110): CBaseController->widget('bootstrap.widge...', Array)
+#7 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#8 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#10 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#11 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#12 [internal function]: UjiberkalaController->actionView('11')
+#13 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#14 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#22 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#24 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#25 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#26 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#27 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/11
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 13:51:36 [error] [exception.CException] exception 'CException' with message 'Property "TbEditableField.onUpate" is not defined.' in /var/www/html/yii_1_1_13/framework/base/CComponent.php:173
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWidgetFactory.php(161): CComponent->__set('onUpate', 'js: function(e,...')
+#1 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(UjiberkalaController), 'TbEditableField', Array)
+#2 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(166): CBaseController->createWidget('TbEditableField', Array)
+#3 /var/www/html/dishub/backend/protected/extensions/bootstrap/widgets/TbEditableDetailView.php(70): CBaseController->widget('TbEditableField', Array, true)
+#4 /var/www/html/yii_1_1_13/framework/zii/widgets/CDetailView.php(217): TbEditableDetailView->renderItem(Array, Array)
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(173): CDetailView->run()
+#6 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(110): CBaseController->widget('bootstrap.widge...', Array)
+#7 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#8 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#10 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#11 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#12 [internal function]: UjiberkalaController->actionView('11')
+#13 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#14 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#22 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#24 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#25 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#26 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#27 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/11
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 13:59:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "all".' in /var/www/html/yii_1_1_13/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CController.php(270): CController->missingAction('all')
+#1 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('all')
+#2 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#3 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 14:00:02 [error] [php] require_once(mpdf.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory (/var/www/html/dishub/backend/protected/views/daftar_pengajuan/cetak.php:4)
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): Daftar_pengajuanController->renderInternal()
+#1 /var/www/html/yii_1_1_13/framework/web/CController.php(869): Daftar_pengajuanController->renderFile()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(782): Daftar_pengajuanController->renderPartial()
+#3 /var/www/html/dishub/backend/protected/controllers/Daftar_pengajuanController.php(64): Daftar_pengajuanController->render()
+#4 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): Daftar_pengajuanController->actionCetak()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): Daftar_pengajuanController->runAction()
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#9 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): Daftar_pengajuanController->filterAccessControl()
+#10 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#11 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(265): Daftar_pengajuanController->runActionWithFilters()
+#13 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): Daftar_pengajuanController->run()
+#14 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#15 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/html/dishub/backend/index.php(15): CWebApplication->run()
+REQUEST_URI=/backend/index.php/daftar_pengajuan/cetak
+in /var/www/html/dishub/backend/protected/views/daftar_pengajuan/cetak.php (4)
+in /var/www/html/dishub/backend/protected/views/daftar_pengajuan/cetak.php (4)
+in /var/www/html/dishub/backend/protected/controllers/Daftar_pengajuanController.php (64)
+2013/02/15 14:08:07 [error] [php] include(UserRole.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (/var/www/html/yii_1_1_13/framework/YiiBase.php:421)
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(144): spl_autoload_call()
+#1 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require()
+#2 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): UjiberkalaController->renderInternal()
+#3 /var/www/html/yii_1_1_13/framework/web/CController.php(869): UjiberkalaController->renderFile()
+#4 /var/www/html/yii_1_1_13/framework/web/CController.php(782): UjiberkalaController->renderPartial()
+#5 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): UjiberkalaController->render()
+#6 unknown(0): UjiberkalaController->actionView()
+#7 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#8 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams()
+#10 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): UjiberkalaController->runAction()
+#11 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#13 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): UjiberkalaController->filterAccessControl()
+#14 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#16 /var/www/html/yii_1_1_13/framework/web/CController.php(265): UjiberkalaController->runActionWithFilters()
+#17 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): UjiberkalaController->run()
+#18 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#19 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#20 /var/www/html/dishub/backend/index.php(15): CWebApplication->run()
+REQUEST_URI=/backend/index.php/ujiberkala/11
+in /var/www/html/dishub/backend/protected/views/ujiberkala/view.php (144)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (57)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 14:40:17 [error] [php] Undefined variable: form (/var/www/html/dishub/backend/protected/views/ujiberkala/view.php:237)
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CController.php(869): UjiberkalaController->renderFile()
+#1 /var/www/html/yii_1_1_13/framework/web/CController.php(782): UjiberkalaController->renderPartial()
+#2 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): UjiberkalaController->render()
+#3 unknown(0): UjiberkalaController->actionView()
+#4 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#5 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams()
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): UjiberkalaController->runAction()
+#8 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#10 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): UjiberkalaController->filterAccessControl()
+#11 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#13 /var/www/html/yii_1_1_13/framework/web/CController.php(265): UjiberkalaController->runActionWithFilters()
+#14 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): UjiberkalaController->run()
+#15 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /var/www/html/dishub/backend/index.php(15): CWebApplication->run()
+REQUEST_URI=/backend/index.php/ujiberkala/11
+in /var/www/html/dishub/backend/protected/views/ujiberkala/view.php (237)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (57)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 14:42:00 [error] [exception.CException] exception 'CException' with message 'Alias "ext.editable.TbEditableField" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /var/www/html/yii_1_1_13/framework/YiiBase.php:316
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWidgetFactory.php(146): YiiBase::import('ext.editable.Tb...', true)
+#1 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(UjiberkalaController), 'ext.editable.Tb...', Array)
+#2 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(172): CBaseController->createWidget('ext.editable.Tb...', Array)
+#3 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(247): CBaseController->widget('ext.editable.Tb...', Array)
+#4 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#7 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#8 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#9 [internal function]: UjiberkalaController->actionView('11')
+#10 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#11 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#19 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#21 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#22 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#24 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/11
+---
+2013/02/15 14:42:13 [error] [exception.CException] exception 'CException' with message 'Alias "ext.editable.TbEditableField" is invalid. Make sure it points to an existing PHP file and the file is readable.' in /var/www/html/yii_1_1_13/framework/YiiBase.php:316
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWidgetFactory.php(146): YiiBase::import('ext.editable.Tb...', true)
+#1 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(146): CWidgetFactory->createWidget(Object(UjiberkalaController), 'ext.editable.Tb...', Array)
+#2 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(172): CBaseController->createWidget('ext.editable.Tb...', Array)
+#3 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(247): CBaseController->widget('ext.editable.Tb...', Array)
+#4 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#7 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#8 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#9 [internal function]: UjiberkalaController->actionView('11')
+#10 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#11 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#19 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#21 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#22 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#24 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/11
+---
+2013/02/15 14:48:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "all".' in /var/www/html/yii_1_1_13/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CController.php(270): CController->missingAction('all')
+#1 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('all')
+#2 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#3 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 14:54:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/all".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 14:54:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/all".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 14:55:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/admin".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/admin')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/admin
+---
+2013/02/15 14:55:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi
+---
+2013/02/15 14:56:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi
+---
+2013/02/15 14:56:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi
+---
+2013/02/15 14:58:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi
+---
+2013/02/15 14:58:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/index".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/index')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/index
+---
+2013/02/15 14:58:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/admin".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/admin')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/admin
+---
+2013/02/15 14:58:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/admin".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/admin')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/admin
+---
+2013/02/15 14:58:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/all".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 15:08:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/all".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 15:08:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/all".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 15:08:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/all".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 15:08:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "mutasi/all".' in /var/www/html/yii_1_1_13/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/all')
+#1 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#2 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#3 {main}
+REQUEST_URI=/backend/index.php/mutasi/all
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 15:16:28 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /var/www/html/yii_1_1_13/framework/gii/GiiModule.php:168
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(ModuleGenerator), Object(CInlineAction))
+#1 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('')
+#2 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/module')
+#3 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#4 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/backend/index.php/gii/module
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/gii/bootstrap
+---
+2013/02/15 15:43:09 [error] [exception.CException] exception 'CException' with message 'Model EditableSaver not found by primary key "12"' in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php:96
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(236): EditableSaver->update()
+#1 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): UjiberkalaController->actionEditable()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('editable')
+#11 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit...')
+#12 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#14 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/editable
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/mutasi/12
+---
+2013/02/15 15:43:48 [error] [exception.CException] exception 'CException' with message 'Model EditableSaver not found by primary key "12"' in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php:96
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/controllers/MutasiController.php(236): EditableSaver->update()
+#1 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): MutasiController->actionEditable()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('editable')
+#11 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/editable')
+#12 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#14 {main}
+REQUEST_URI=/backend/index.php/mutasi/editable
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/mutasi/12
+---
+2013/02/15 15:44:45 [error] [exception.CException] exception 'CException' with message 'Model Angkutan rules do not allow to update attribute "masa_berlaku_mulai"' in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php:109
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/controllers/MutasiController.php(229): EditableSaver->update()
+#1 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): MutasiController->actionEdit()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#11 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('mutasi/edit')
+#12 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#14 {main}
+REQUEST_URI=/backend/index.php/mutasi/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/mutasi/12
+---
+2013/02/15 15:46:46 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id.
+in /var/www/html/dishub/backend/protected/views/ujiberkala/view.php (201)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (57)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 15:46:46 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id' in /var/www/html/yii_1_1_13/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(201): CActiveRecord->findAll(Array)
+#4 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#7 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#8 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#9 [internal function]: UjiberkalaController->actionView('12')
+#10 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#11 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#19 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#21 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#22 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#24 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/12
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 15:47:55 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id.
+in /var/www/html/dishub/backend/protected/views/ujiberkala/view.php (201)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (57)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 15:47:55 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id' in /var/www/html/yii_1_1_13/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(201): CActiveRecord->findAll(Array)
+#4 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#7 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#8 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#9 [internal function]: UjiberkalaController->actionView('12')
+#10 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#11 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#19 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#21 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#22 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#24 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/12
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/all
+---
+2013/02/15 15:48:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id.
+in /var/www/html/dishub/backend/protected/views/ujiberkala/view.php (201)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (57)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 15:48:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id' in /var/www/html/yii_1_1_13/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(201): CActiveRecord->findAll(Array)
+#4 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#7 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#8 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#9 [internal function]: UjiberkalaController->actionView('12')
+#10 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#11 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#19 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#21 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#22 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#24 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/12
+---
+2013/02/15 15:51:33 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id.
+in /var/www/html/dishub/backend/protected/views/ujiberkala/view.php (201)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (57)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 15:51:33 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42804]: Datatype mismatch: 7 ERROR:  argument of WHERE must be type boolean, not type integer. The SQL statement executed was: SELECT * FROM "angkutan_tipe_transaksi" "t" WHERE angkutan_transaksi_id' in /var/www/html/yii_1_1_13/framework/db/CDbCommand.php:541
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/db/CDbCommand.php(395): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1297): CDbCommand->queryAll()
+#2 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1416): CActiveRecord->query(Object(CDbCriteria), true)
+#3 /var/www/html/dishub/backend/protected/views/ujiberkala/view.php(201): CActiveRecord->findAll(Array)
+#4 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(126): require('/var/www/html/d...')
+#5 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/html/d...', Array, true)
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(869): CBaseController->renderFile('/var/www/html/d...', Array, true)
+#7 /var/www/html/yii_1_1_13/framework/web/CController.php(782): CController->renderPartial('view', Array, true)
+#8 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(57): CController->render('view', Array)
+#9 [internal function]: UjiberkalaController->actionView('12')
+#10 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs(Object(UjiberkalaController), Array)
+#11 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CAction->runWithParamsInternal(Object(UjiberkalaController), Object(ReflectionMethod), Array)
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#13 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#14 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#15 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#16 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#17 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#18 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#19 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('view')
+#21 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/view')
+#22 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#23 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#24 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/12
+---
+2013/02/15 15:53:03 [error] [exception.CException] exception 'CException' with message 'Model EditableSaver not found by primary key "12"' in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php:96
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(236): EditableSaver->update()
+#1 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): UjiberkalaController->actionEditable()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('editable')
+#11 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit...')
+#12 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#14 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/editable
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/12
+---
+2013/02/15 15:53:36 [error] [exception.CException] exception 'CException' with message 'Model Angkutan rules do not allow to update attribute "masa_berlaku_mulai"' in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php:109
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(229): EditableSaver->update()
+#1 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): UjiberkalaController->actionEdit()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#11 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit')
+#12 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#14 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/12
+---
+2013/02/15 15:56:19 [error] [exception.CException] exception 'CException' with message 'Model Angkutan rules do not allow to update attribute "masa_berlaku_mulai"' in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php:109
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(229): EditableSaver->update()
+#1 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): UjiberkalaController->actionEdit()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#4 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#11 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit')
+#12 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#13 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#14 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/12
+---
+2013/02/15 15:58:01 [error] [php] include(Angkutan.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (/var/www/html/yii_1_1_13/framework/YiiBase.php:421)
+Stack trace:
+#0 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(206): spl_autoload_call()
+#1 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(53): UjiberkalaController->loadModel()
+#2 unknown(0): UjiberkalaController->actionView()
+#3 /var/www/html/yii_1_1_13/framework/web/actions/CAction.php(108): ReflectionMethod->invokeArgs()
+#4 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): UjiberkalaController->runAction()
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#9 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): UjiberkalaController->filterAccessControl()
+#10 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#11 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(265): UjiberkalaController->runActionWithFilters()
+#13 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): UjiberkalaController->run()
+#14 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#15 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/html/dishub/backend/index.php(15): CWebApplication->run()
+REQUEST_URI=/backend/index.php/ujiberkala/12
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (206)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (53)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 16:10:35 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "". The SQL statement executed was: UPDATE "angkutan" SET "masa_berlaku_mulai"=:yp0 WHERE "angkutan"."id"=12.
+in /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php (125)
+in /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php (229)
+in /var/www/html/dishub/backend/index.php (15)
+2013/02/15 16:10:35 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[22007]: Invalid datetime format: 7 ERROR:  invalid input syntax for type date: "". The SQL statement executed was: UPDATE "angkutan" SET "masa_berlaku_mulai"=:yp0 WHERE "angkutan"."id"=12' in /var/www/html/yii_1_1_13/framework/db/CDbCommand.php:357
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1691): CDbCommand->execute()
+#1 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(1070): CActiveRecord->updateByPk(12, Array)
+#2 /var/www/html/yii_1_1_13/framework/db/ar/CActiveRecord.php(795): CActiveRecord->update(Array)
+#3 /var/www/html/dishub/backend/protected/extensions/editable/EditableSaver.php(125): CActiveRecord->save(false, Array)
+#4 /var/www/html/dishub/backend/protected/controllers/UjiberkalaController.php(229): EditableSaver->update()
+#5 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): UjiberkalaController->actionEdit()
+#6 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#8 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#9 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#10 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#11 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#13 /var/www/html/yii_1_1_13/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#14 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): CController->run('edit')
+#15 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController('ujiberkala/edit')
+#16 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#17 /var/www/html/dishub/backend/index.php(15): CApplication->run()
+#18 {main}
+REQUEST_URI=/backend/index.php/ujiberkala/edit
+HTTP_REFERER=http://dishub.ptdpa.com/backend/index.php/ujiberkala/12
+---
+2013/02/15 16:58:50 [error] [php] require_once(mpdf.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory (/var/www/html/dishub/backend/protected/views/daftar_pengajuan/cetak.php:4)
+Stack trace:
+#0 /var/www/html/yii_1_1_13/framework/web/CBaseController.php(95): Daftar_pengajuanController->renderInternal()
+#1 /var/www/html/yii_1_1_13/framework/web/CController.php(869): Daftar_pengajuanController->renderFile()
+#2 /var/www/html/yii_1_1_13/framework/web/CController.php(782): Daftar_pengajuanController->renderPartial()
+#3 /var/www/html/dishub/backend/protected/controllers/Daftar_pengajuanController.php(64): Daftar_pengajuanController->render()
+#4 /var/www/html/yii_1_1_13/framework/web/actions/CInlineAction.php(49): Daftar_pengajuanController->actionCetak()
+#5 /var/www/html/yii_1_1_13/framework/web/CController.php(308): CInlineAction->runWithParams()
+#6 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(133): Daftar_pengajuanController->runAction()
+#7 /var/www/html/yii_1_1_13/framework/web/filters/CFilter.php(40): CFilterChain->run()
+#8 /var/www/html/yii_1_1_13/framework/web/CController.php(1145): CAccessControlFilter->filter()
+#9 /var/www/html/yii_1_1_13/framework/web/filters/CInlineFilter.php(58): Daftar_pengajuanController->filterAccessControl()
+#10 /var/www/html/yii_1_1_13/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter()
+#11 /var/www/html/yii_1_1_13/framework/web/CController.php(291): CFilterChain->run()
+#12 /var/www/html/yii_1_1_13/framework/web/CController.php(265): Daftar_pengajuanController->runActionWithFilters()
+#13 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(282): Daftar_pengajuanController->run()
+#14 /var/www/html/yii_1_1_13/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#15 /var/www/html/yii_1_1_13/framework/base/CApplication.php(169): CWebApplication->processRequest()
+#16 /var/www/html/dishub/backend/index.php(15): CWebApplication->run()
+REQUEST_URI=/backend/index.php/daftar_pengajuan/cetak
+in /var/www/html/dishub/backend/protected/views/daftar_pengajuan/cetak.php (4)
+in /var/www/html/dishub/backend/protected/views/daftar_pengajuan/cetak.php (4)
+in /var/www/html/dishub/backend/protected/controllers/Daftar_pengajuanController.php (64)
+2013/02/21 21:40:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\explore\yii\pih\backend\protected\controllers\PostsController.php:187
+Stack trace:
+#0 C:\xampp\htdocs\explore\yii\pih\backend\protected\controllers\PostsController.php(119): PostsController->loadModel('6')
+#1 [internal function]: PostsController->actionDelete('6')
+#2 C:\xampp\htdocs\yii_1_1_13\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#3 C:\xampp\htdocs\yii_1_1_13\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(PostsController), Object(ReflectionMethod), Array)
+#4 C:\xampp\htdocs\yii_1_1_13\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\yii_1_1_13\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\yii_1_1_13\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii_1_1_13\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\yii_1_1_13\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\yii_1_1_13\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii_1_1_13\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii_1_1_13\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\yii_1_1_13\framework\web\CWebApplication.php(282): CController->run('delete')
+#13 C:\xampp\htdocs\yii_1_1_13\framework\web\CWebApplication.php(141): CWebApplication->runController('posts/delete')
+#14 C:\xampp\htdocs\yii_1_1_13\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\explore\yii\pih\backend\index.php(15): CApplication->run()
+#16 {main}
+REQUEST_URI=/explore/yii/pih/backend/index.php/posts/delete/6?ajax=posts-main-grid
+HTTP_REFERER=http://localhost/explore/yii/pih/backend/index.php/posts/all
+---
+2013/02/22 05:30:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "add".' in C:\xampp\htdocs\yii_1_1_13\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii_1_1_13\framework\web\CController.php(270): CController->missingAction('add')
+#1 C:\xampp\htdocs\yii_1_1_13\framework\web\CWebApplication.php(282): CController->run('add')
+#2 C:\xampp\htdocs\yii_1_1_13\framework\web\CWebApplication.php(141): CWebApplication->runController('user/add')
+#3 C:\xampp\htdocs\yii_1_1_13\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\explore\yii\pih\backend\index.php(15): CApplication->run()
+#5 {main}
+REQUEST_URI=/explore/yii/pih/backend/index.php/user/add
+---
